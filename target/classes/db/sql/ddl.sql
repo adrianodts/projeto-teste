@@ -1,0 +1,3 @@
+DROP DATABASE grupoabril IF EXISTS;
+
+CREATE DATABASE grupoabril;

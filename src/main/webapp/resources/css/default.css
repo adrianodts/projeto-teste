@@ -1,0 +1,15 @@
+h11 {
+    color:red;
+}
+
+.jumbotron {      
+      padding-top: 5%;
+      padding-bottom: 5%;
+}
+
+.verticalLine {
+      width: 2px;
+      height: 100px;
+      border-right-width: 2px;
+      border-right-color: gray;
+}
