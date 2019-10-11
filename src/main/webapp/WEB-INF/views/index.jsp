@@ -7,13 +7,12 @@
 
 <customTags:page bodyClass="" title="">
     <div class="jumbotron">
-      <hr>
       <div class="container">
         <h1>Seja bem vindo!</h1>
+		<hr>
         <p>Este é um template bootstrap para a criação do projeto teste.</p>
       </div>
     </div>
-
     <div class="container">
       <div class="row">
         <div class="col-sm-2 alert alert-success">
