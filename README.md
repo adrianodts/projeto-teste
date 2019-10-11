@@ -38,7 +38,7 @@ O sistema deve ser capaz de:
 	- Goals: digitar -> clean install tomcat7:run
 	- Clique Apply e em seguida clique em Run
 
--- Ou
+#####Ou
 
 - Abra o Prompt de Comando e troque para o diretório que contém o arquivo pom.xml
 	- Execute: mvn clean install tomcat7:run
@@ -49,11 +49,3 @@ O sistema deve ser capaz de:
 - Abra o browser a acesse o seguinte endereço: http://localhost:9090/
 - Para navegar é bem simples, a página inicial contém algumas informações das funcionalidades do sistema tornando fácil o manuseio.
 
-	
-## TroubleShooting
-
-- Caso aconteça o erro abaixo, configure JDK corretamente no goal criado no passo anterior. 
-- Foi utilizado para testes o seguinte: jdk1.8.0_201
-
-** [ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:2.3.2:compile (default-compile) on project projeto-teste: 
-Compilation failure Unable to locate the Javac Compiler in ....	
